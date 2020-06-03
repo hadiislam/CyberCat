@@ -88,7 +88,7 @@ cd CyberCat
 chmod +x *
 ls
 clear
-sh main.sh
+sh cat.sh
 fi
 
 if [ $pil = 4 ]
