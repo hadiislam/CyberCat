@@ -32,10 +32,11 @@ echo $me"10"$i"."$cy" Auto React Fb        "
 echo $me"11"$i"."$cy" Facebook Information "    
 echo $me"12"$i"."$cy" Facebook Bot         "
 echo $me"13"$i"."$cy" Auto React fb        "
+echo
 echo $me"0"$i"."$cy" Back To Homepage      "
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
-read -p"Choose Number>>" pil
+read -p"Choose Number>> " pil
 
 
 #pill area
