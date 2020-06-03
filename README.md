@@ -1,7 +1,3 @@
-
-<p align="left">
-  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
- </p>
 <p align="center">
   <img src="asset/logo.png">  
 </p>
@@ -19,6 +15,9 @@
 </p>
 <br>
 
+<p align="centre">
+  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
+ </p>
 ### Introduction
 
 *CyberCat is a Kali Linux hacking tools installer for Termux and linux system.*
