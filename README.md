@@ -34,10 +34,7 @@ CyberCat was developed for Termux. Using CyberCat, you can install powerful hack
 
 ### Operating System Requirements
 
-
 • **Android** (Using the Termux App) <br>
-
-
 
 ------------------------------------------------------------------------
 
