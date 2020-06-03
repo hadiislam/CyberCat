@@ -40,7 +40,7 @@ read -p"Input Number>> " pil
 if [ $pil = 0 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 sh home.sh
 fi
@@ -48,7 +48,7 @@ fi
 if [ $pil = 1 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 chmod +x *
 ls
@@ -58,7 +58,7 @@ fi
 if [ $pil = 2 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 chmod +x *
 ls
@@ -68,7 +68,7 @@ fi
 if [ $pil = 3 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 chmod +x *
 ls
@@ -78,7 +78,7 @@ fi
 if [ $pil = 4 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 chmod +x *
 ls
