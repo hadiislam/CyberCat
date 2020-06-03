@@ -33,7 +33,7 @@ echo $i"3. "$cy" Update CyberCat"
 echo
 echo $i"4. "$cy" About "
 echo
-echo $i"x. "$cy" Exit "
+echo $i"5. "$cy" Exit "
 echo
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:"
 read -p"Input Number>> " pil
@@ -41,7 +41,7 @@ read -p"Input Number>> " pil
 
 #pil area
 
-if [ $pil = x ]
+if [ $pil = 3 ]
 then
 clear
 echo " Updating CyberCat......"
