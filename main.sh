@@ -25,17 +25,18 @@ echo
 date | lolcat
 echo
 echo
-echo $i"1. "$cy" All Tools "
+echo $i" 1. "$cy" All Tools "
 echo
-echo $i"2. "$cy" Category "
+echo $i" 2. "$cy" Category "
 echo
-echo $i"3. "$cy" Update CyberCat"
+echo $i" 3. "$cy" Update CyberCat"
 echo
-echo $i"4. "$cy" About "
+echo $i" 4. "$cy" About "
 echo
-echo $i"5. "$cy" Exit "
+echo $i" 5. "$cy" Exit "
 echo
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:"
+echo
 read -p"Input Number>> " pil
 
 
@@ -51,4 +52,11 @@ git clone https://github.com/hadiislam/demo
 cd
 clear
 echo "Update Complete..."
+clear
+cd
+cd demo
+chmod +x *
+ls
+clear
+sh main.sh
 fi
