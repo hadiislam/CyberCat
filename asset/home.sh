@@ -50,7 +50,7 @@ fi
 if [ $pil = 1 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 chmod +x *
 ls
@@ -60,7 +60,7 @@ fi
 if [ $pil = 2 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 chmod +x *
 ls
@@ -79,7 +79,7 @@ clear
 echo "Update Complete..."
 clear
 cd
-cd demo
+cd CyberCat
 chmod +x *
 ls
 clear
@@ -89,7 +89,7 @@ fi
 if [ $pil = 4 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 chmod +x *
 ls
