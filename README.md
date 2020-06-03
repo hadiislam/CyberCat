@@ -57,4 +57,11 @@ Enter a Number for a specific output:
 
 **Warning**
 
-use this tool at your own risk!
+- Use this tool at your own risk!
+- Use It At Your Own Risk.
+- No Warranty.
+- Use it legal purpose only.
+- We are not responsible for your actions.
+- Do not do things that are forbidden.
+- If you are installing this tool.
+- That means you are agree with all terms.
