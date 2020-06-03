@@ -17,22 +17,22 @@ echo BY : HADI ISLAM | lolcat
 echo
 date | lolcat
 echo
-echo $i" ABOUT US  " 
+echo $pur" ABOUT US  " 
 echo
 echo
-echo $cy"Made By Hadi Islam"
-echo $i" Made In Bangladesh With Love ❤" 
+echo $cy" Made By Hadi Islam"
+echo $cy" Made In Bangladesh With Love ❤" 
 echo
 echo
-echo $i"#Use It At Your Own Risk."
-echo $i"#No Warranty."
-echo $i"#Use it legal purpose only."
-echo $i"#We are not responsible for your actions."
-echo $i"#Do not do things that are forbidden."
-echo $i"#If you are installing this tool."
-echo $i"#That means you are agree with all terms"
+echo $i"# Use It At Your Own Risk."
+echo $i"# No Warranty."
+echo $i"# Use it legal purpose only."
+echo $i"# We are not responsible for your actions."
+echo $i"# Do not do things that are forbidden."
+echo $i"# If you are installing this tool."
+echo $i"# That means you are agree with all terms"
 echo
-echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:"
+echo $pu":.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
 read -p"Press 0 to back Homepage>>" pil
 
