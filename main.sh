@@ -52,6 +52,16 @@ ls
 sh alltools.sh
 fi
 
+if [ $pil = 2 ]
+then
+cd
+cd demo
+cd asset
+chmod +x *
+ls
+sh category.sh
+fi
+
 if [ $pil = 3 ]
 then
 clear
