@@ -24,7 +24,7 @@ echo $i" 1. "$cy" Facebook Tools "
 echo
 echo $i" 2. "$cy" Phishing Tools "
 echo
-echo $i" 3. "$cy" Camera and Audio Hack"
+echo $i" 3. "$cy" Device Hack"
 echo
 echo $i" 4. "$cy" Spam "
 echo
@@ -63,4 +63,14 @@ cd asset
 chmod +x *
 ls
 sh phiscat.sh
+fi
+
+if [ $pil = 2 ]
+then
+cd
+cd demo
+cd asset
+chmod +x *
+ls
+sh devhack.sh
 fi
