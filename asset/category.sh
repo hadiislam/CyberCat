@@ -54,3 +54,13 @@ chmod +x *
 ls
 sh fbcat.sh
 fi
+
+if [ $pil = 2 ]
+then
+cd
+cd demo
+cd asset
+chmod +x *
+ls
+sh phiscat.sh
+fi
