@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-      All In One Linux Tools
+      All In One Termux Tools
 </p>
 
 <p align="center">
