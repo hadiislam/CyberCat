@@ -20,10 +20,11 @@ echo
 echo $i" Device Hack  " | lolcat
 echo
 echo $me"1"$i"."$cy" SayCheese"
+echo
 echo $me"0"$i"."$cy" Back To Homepage      "
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
-read -p"Choose Number>>" pil
+read -p"Choose Number>> " pil
 
 #pil area
 
