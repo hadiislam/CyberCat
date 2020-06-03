@@ -65,7 +65,7 @@ ls
 sh phiscat.sh
 fi
 
-if [ $pil = 2 ]
+if [ $pil = 3 ]
 then
 cd
 cd demo
