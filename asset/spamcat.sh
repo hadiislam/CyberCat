@@ -24,7 +24,7 @@ echo
 echo $me"0"$i"."$cy" Back To Homepage      "
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
-read -p"Choose Number>>" pil
+read -p"Choose Number>> " pil
 
 
 #pill area
