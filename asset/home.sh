@@ -15,6 +15,7 @@ clear
 
 figlet CyberCat | lolcat
 echo
+echo $cy"Version 2.0"
 echo BY : HADI ISLAM | lolcat
 echo
 date | lolcat
