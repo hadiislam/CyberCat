@@ -42,7 +42,7 @@ read -p"Press 0 to back Homepage>>" pil
 if [ $pil = 0 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 sh home.sh
 fi
