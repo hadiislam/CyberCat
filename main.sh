@@ -42,6 +42,16 @@ read -p"Input Number>> " pil
 
 #pil area
 
+if [ $pil = 1 ]
+then
+cd
+cd demo
+cd asset
+chmod +x *
+ls
+sh All Tools.sh
+fi
+
 if [ $pil = 3 ]
 then
 clear
