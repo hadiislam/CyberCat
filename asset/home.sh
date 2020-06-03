@@ -28,7 +28,7 @@ echo $i" 3. "$cy" Update CyberCat"
 echo
 echo $i" 4. "$cy" About "
 echo
-echo $i" 0. "$cy" Exit "
+echo $i" x. "$cy" Exit "
 echo
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
@@ -37,7 +37,7 @@ read -p"Input Number>> " pil
 
 #pil area
 
-if [ $pil = 0 ]
+if [ $pil = x ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
