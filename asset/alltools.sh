@@ -18,6 +18,8 @@ echo BY : HADI ISLAM | lolcat
 echo
 date | lolcat
 echo
+echo $i" All Tools  " | lolcat
+echo
 echo $me" 1"$i"."$cy" Brutefore Facebook   "   
 echo $me" 2"$i"."$cy" Bruteforce (BR1G4D3) "
 echo $me" 3"$i"."$cy" Bruteforce (iqbalz)  "
