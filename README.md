@@ -22,8 +22,8 @@
 
 ### Introduction
 
-*CyberCat is a Kali Linux hacking tools installer for Termux and linux system.*
-CyberCat was developed for Termux and linux based systems. Using CyberCat, you can install powerful hacking tools in Termux (android) and other Linux based distributions. Now CyberCat is available for Ubuntu, Debian etc.
+*CyberCat is a Kali Linux hacking tools installer for Termux .*
+CyberCat was developed for Termux. Using CyberCat, you can install powerful hacking tools in Termux.
 
 <br>
 <p align="center">
@@ -34,10 +34,10 @@ CyberCat was developed for Termux and linux based systems. Using CyberCat, you c
 
 ### Operating System Requirements
 
-CyberCat works on any of the following operating systems:<br>
+
 • **Android** (Using the Termux App) <br>
-• **Linux** (Debian Based Systems) <br>
-• **Unix**
+
+
 
 ------------------------------------------------------------------------
 
