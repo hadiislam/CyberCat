@@ -33,7 +33,7 @@ echo $i" 3. "$cy" Update CyberCat"
 echo
 echo $i" 4. "$cy" About "
 echo
-echo $i" 5. "$cy" Exit "
+echo $i" 0. "$cy" Exit "
 echo
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
@@ -41,6 +41,15 @@ read -p"Input Number>> " pil
 
 
 #pil area
+
+if [ $pil = 0 ]
+then
+clear
+figlet -f slant "E X I T"|lolcat
+sleep 2
+echo $pur"Thanks For Supporting Us"
+exit
+fi
 
 if [ $pil = 1 ]
 then
@@ -79,4 +88,14 @@ chmod +x *
 ls
 clear
 sh main.sh
+fi
+
+if [ $pil = 4 ]
+then
+cd
+cd demo
+cd asset
+chmod +x *
+ls
+sh about.sh
 fi
