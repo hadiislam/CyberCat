@@ -38,7 +38,8 @@ if [ $pil = 0 ]
 then
 cd
 cd demo
-sh main.sh
+cd asset
+sh home.sh
 fi
 
 if [ $pil = 1 ]
