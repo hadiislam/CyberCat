@@ -74,3 +74,13 @@ chmod +x *
 ls
 sh devhack.sh
 fi
+
+if [ $pil = 4 ]
+then
+cd
+cd demo
+cd asset
+chmod +x *
+ls
+sh spamcat.sh
+fi
