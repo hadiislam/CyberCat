@@ -6,7 +6,7 @@ gem install lolcat
 clear
 
 #color
-
+ye='\033[43m' #yellow
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
@@ -20,7 +20,7 @@ clear
 
 figlet CyberCat | lolcat
 echo
-echo $cy"Version 2.0"
+echo $ye"Version 2.0"
 echo BY : HADI ISLAM | lolcat
 echo
 date | lolcat
