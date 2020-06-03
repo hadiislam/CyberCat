@@ -28,6 +28,14 @@ read -p"Choose Number>> " pil
 
 #pil area
 
+if [ $pil = 0 ]
+then
+cd
+cd CyberCat
+cd asset
+sh home.sh
+fi
+
 if [ $pil = 1 ]
 then
 clear
