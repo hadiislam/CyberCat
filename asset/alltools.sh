@@ -38,10 +38,11 @@ echo $me"15"$i"."$cy" BlackEye             "
 echo $me"16"$i"."$cy" SocialFish           "
 echo $me"17"$i"."$cy" Weeman"
 echo $me"18"$i"."$cy" SayCheese            "
+echo
 echo $me"0"$i"."$cy" Back To Homepage      "
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
-read -p"Choose Number>>" pil
+read -p"Choose Number>> " pil
 
 
 #pill area
