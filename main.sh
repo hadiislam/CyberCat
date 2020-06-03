@@ -49,7 +49,7 @@ cd demo
 cd asset
 chmod +x *
 ls
-sh All Tools.sh
+sh alltools.sh
 fi
 
 if [ $pil = 3 ]
