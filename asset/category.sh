@@ -33,3 +33,24 @@ echo
 echo $i":.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:"
 echo
 read -p"Input Number>> " pil
+
+
+#pill area
+
+if [ $pil = 0 ]
+then
+cd
+cd demo
+cd asset
+sh home.sh
+fi
+
+if [ $pil = 1 ]
+then
+cd
+cd demo
+cd asset
+chmod +x *
+ls
+sh fbcat.sh
+fi
