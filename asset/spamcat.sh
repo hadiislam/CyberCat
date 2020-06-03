@@ -32,7 +32,7 @@ read -p"Choose Number>> " pil
 if [ $pil = 0 ]
 then
 cd
-cd demo
+cd CyberCat
 cd asset
 sh home.sh
 fi
