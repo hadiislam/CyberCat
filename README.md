@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="70%" src="asset/logo.png">  
+  <img width="50%" src="asset/logo.png">  
 </p>
 
 <p align="center">
@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://github.com/darksecdevelopers"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" ></a>
   <a href="https://github.com/DarkSecDevelopers/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.0.0&x2=0" ></a>  
-  <a href="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye"><img src="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye/badge" alt="CodeFactor" /></a>
-  <a href="https://www.codacy.com/manual/DarkSecDevelopers/HiddenEye?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DarkSecDevelopers/HiddenEye&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/af9fadca3cfc4de19232d0840988e121"/></a>
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye.svg?type=shield"/></a>
 </p>
 <br>
